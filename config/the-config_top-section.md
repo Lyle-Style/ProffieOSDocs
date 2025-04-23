@@ -104,7 +104,7 @@ Example below show 10 seconds set.
 ```
 
 ### SHARED_POWER_PINS
-This code makes it possible to use the same power pins for multiple blades.
+This code makes it possible to use the same power pins (and different data pins) for multiple blades.
 
 ```cpp
 #define SHARED_POWER_PINS
